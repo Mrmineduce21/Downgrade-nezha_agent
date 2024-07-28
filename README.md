@@ -29,3 +29,9 @@ apk add curl
 curl -sS -O https://raw.githubusercontent.com/Mrmineduce21/Downgrade-nezha_agent/main/Downgrade_agent.sh && chmod +x Downgrade_agent.sh && bash Downgrade_agent.sh
 
 ```
+
+
+## Alpine LXC小鸡
+```
+curl -sS -O https://raw.githubusercontent.com/Mrmineduce21/Downgrade-nezha_agent/main/Alpine_downgrade_agent.sh && chmod +x Alpine_downgrade_agent.sh && bash Alpine_downgrade_agent.sh
+```
